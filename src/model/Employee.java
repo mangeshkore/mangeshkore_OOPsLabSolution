@@ -8,9 +8,9 @@ public class Employee {
     private String password;
 
 
-    public Employee(String firstName, String lastName){
-        this.firstName=firstName;
-        this.lastName=lastName;
+    public Employee(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
     }
 
     public String getFirstName() {
